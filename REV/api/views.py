@@ -1,3 +1,6 @@
-from django.shortcuts import render
+def home(request):
+    return ""
 
-# Create your views here.
+
+def check_sum(request):
+    return ""
